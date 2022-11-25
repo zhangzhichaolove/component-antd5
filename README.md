@@ -1,6 +1,6 @@
 # component-antd5
 antd5组件二次封装。
 
-```sh
+```bash
 npm create vite@latest
 ```
